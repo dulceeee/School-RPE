@@ -17,6 +17,7 @@ html{
         --color3: #313131;
         --color4: #777777;
         --color5: #A5A5A5;
+        --color6: #fff;
 
 
         /* tamaños de fuente */
@@ -30,7 +31,6 @@ html{
         /* tipografías */
 
         --font1: 'Source Sans Pro', sans-serif;
-        --font2: 'Source Sans Pro SemiBlod', sans-serif;
 
 }
 
